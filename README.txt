@@ -24,3 +24,6 @@ Abra `index.html` no navegador.
 
 ## Publicação
 O site é estático e pode ser publicado em serviços de hospedagem de sites estáticos. Depois da publicação, o domínio do Registro.br pode ser apontado para a hospedagem seguindo os registros DNS fornecidos por ela.
+
+
+ATUALIZAÇÃO DE CONTATOS: WhatsApp/telefone (71) 98719-1609; e-mail somaracaoecidadania@gmail.com; endereço Rua Teixeira Mendes, 192, Alto das Pombas, Salvador-BA, CEP 40226-590; Instagram somaracaoecidadania; Facebook somar.altodaspombas.
